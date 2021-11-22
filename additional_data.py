@@ -2,4 +2,4 @@ name = 'Ivan'
 surname = 'Andreev'
 
 age = 20
-born = 'Moscow'
+born = 'Moscow, Russia, 143911'
